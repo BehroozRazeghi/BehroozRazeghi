@@ -1,55 +1,39 @@
-## 👋 Hi, I’m Behrooz Razeghi
 
-I'm a Postdoctoral Fellow at Harvard University.
+# Behrooz Razeghi
 
----
+**Machine Learning · Information Theory · Data Privacy · Trustworthy AI**
 
-## 🌐 Academic Profiles & Contact Information
+I am a researcher and engineer with a background in electrical engineering, mathematics, and computer science. My work combines theoretical analysis, algorithm development, and empirical evaluation in machine learning, information theory, and signal processing, with a focus on data privacy and trustworthy AI.
 
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-MR0G8WgAAAAJ-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=MR0G8WgAAAAJ&hl=en)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--9568--4166-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-9568-4166)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-behroozrazeghi-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/behroozrazeghi/)
-[![Website](https://img.shields.io/badge/Website-www.behroozrazeghi.com-0A66C2?style=flat&logo=google-chrome&logoColor=white)](https://www.behroozrazeghi.com/)
+[Website](https://www.behroozrazeghi.com/) · [Google Scholar](https://scholar.google.com/citations?user=MR0G8WgAAAAJ) · [ORCID](https://orcid.org/0000-0001-9568-4166) · [LinkedIn](https://www.linkedin.com/in/behroozrazeghi/)
 
----
+## Research Interests
 
-## 📌 Research Interests
+- **Core Areas:** Machine Learning, Information Theory, Signal Processing
+- **Focused Topics:** Data Privacy, Trustworthy AI, AI Safety and Alignment, AI Agents, Federated Learning
+- **Application Domains:** Healthcare and Digital Medicine, Biometrics, Communication Systems
 
-- **Core Areas**: Machine Learning, Information Theory, Signal Processing
+## Selected Research
 
-- **Focused Topics**: Data Privacy, Representation Learning, Algorithmic Fairness, Federated Learning
+### DP-SPIN
 
-- **Application Domains**: Healthcare and Digital Medicine, Biometric Systems, Medical Imaging
+Differentially private semantic plans for aggregate insight generation from private text collections.
 
----
+[Paper](https://arxiv.org/abs/2609.16283) · [Code](https://github.com/BehroozRazeghi/dp-spin)
 
+### ScoreShield
 
-## 📊 GitHub Stats
+Differentially private release of cosine similarity scores and Gram matrices through perturbation and projection.
 
-![Behrooz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BehroozRazeghi&show_icons=true&count_private=true)
+[Paper](https://arxiv.org/abs/2607.25041) · [Code](https://github.com/BehroozRazeghi/scoreshield)
 
----
+### Bottlenecks CLUB
 
-## 👯 Let's Connect
+An information-theoretic framework for characterizing trade-offs among complexity, leakage, and utility.
 
-Reach out via [LinkedIn](https://www.linkedin.com/in/behroozrazeghi/) or explore my [website](https://www.behroozrazeghi.com/) for more about my work!
-
+[Paper](https://arxiv.org/pdf/2207.04895) · [Code](https://github.com/BehroozRazeghi/Bottlenecks-CLUB)
 
 
----
+## Contact
 
-<!--
-**BehroozRazeghi/BehroozRazeghi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+For research inquiries and collaborations, please contact me at: **behrooz [dot] razeghi [at] gmail [dot] com**
